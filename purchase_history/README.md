@@ -12,4 +12,7 @@ An effort towards providing decision making information through the product’s 
 This module will give the purchase price of the product from the last two Purchase Order which is in the ‘Done’ state for the same particular Supplier. The last two purchase price of the product will display in the form view and the tree view of the order line of the Purchase RFQ and Purchase Order.
 
 
+For more information: https://www.odoo.com/apps/modules/10.0/purchase_history/
+
+
 
