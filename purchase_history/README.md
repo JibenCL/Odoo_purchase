@@ -14,5 +14,7 @@ This module will give the purchase price of the product from the last two Purcha
 
 For more information: https://www.odoo.com/apps/modules/10.0/purchase_history/
 
+Muestra el ultimo precio al que fue comprado un producto
+
 
 
