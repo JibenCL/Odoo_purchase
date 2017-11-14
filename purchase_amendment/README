@@ -1,0 +1,5 @@
+
+In Odoo Once after the confirmation of purchase order, system will not allow us to modify the Purchase order and purchase order lines like Product, Order quantity and Terms & Condition. After installing the Purchase Amendment Module after the confirmation of a purchase order, a button will appear on the screen as amendment. When user clicks on this button system will cancel the incoming shipment against the order and moves the order state to Draft after making the required changes, user can again confirm the purchase order.
+
+For more information:
+https://www.odoo.com/apps/modules/10.0/purchase_amendment/
